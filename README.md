@@ -25,11 +25,12 @@
 
 # Dependencies
 
-  The code is compatible Python 3. The following dependencies are needed to run the tracker:
+  The code is compatible Python 3. The **pip** install the following dependencies are needed to run the tracker:
 
     NumPy
     scikit learn
     OpenCV
+    Keras
 
   Additionally, this project requires TensorFlow-1.4.0+.
   
@@ -38,5 +39,6 @@
   For the JETSON TX2, you are not able to install some of the dependencies by using **pip** so you need to install from souces.
   
   1) Here is the [link](https://scikit-learn.org/stable/developers/advanced_installation.html) to install scikit learn from sources. 
- 
+  2) Here is the [link](https://www.numpy.org/devdocs/user/building.html) to install NumPy from sources.
+  3) Here is the [link](https://docs.opencv.org/3.4/d7/d9f/tutorial_linux_install.html) to install OpenCV from sources.
 
