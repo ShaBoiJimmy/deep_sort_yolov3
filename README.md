@@ -8,7 +8,6 @@
   
   https://github.com/Qidian213/deep_sort_yolov3
   
-  https://github.com/Qidian213/deep_sort_yolov3
 
 # Getting Started
 
